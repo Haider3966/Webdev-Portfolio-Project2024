@@ -50,7 +50,7 @@ nav a{
 /* header related styles */
 .header{
     background-color: #fff8f3;
-    background-image: url('..');
+    background-image: url('../images/header_bg.png'),url('../images/header_bg.png');
     background-repeat: no-repeat;
     background-position: bottom right;
     
